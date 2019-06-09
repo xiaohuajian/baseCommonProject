@@ -5,8 +5,7 @@ import android.widget.ListView;
 public class NoScrollListView extends ListView {
 
     public NoScrollListView(android.content.Context context, android.util.AttributeSet attrs){
-        super(context, attrs)
-        ;
+        super(context, attrs);
     }
 
     /**
